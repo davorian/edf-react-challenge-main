@@ -1,0 +1,22 @@
+.app-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 1rem;
+  background-color: #10367A;
+}
+
+h1 {
+  font-size: 48px;
+  color: white;
+}
+
+ul {
+  list-style-type: none; /* Remove bullet points */
+  /* Optional: Remove the default padding */
+  padding-left: 0;
+}
+
+li {
+  list-style-type: none;
+  padding-top: 12px;
+}
